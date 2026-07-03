@@ -30,3 +30,11 @@ p, h1, h2, h3 {
 .btn:active {
     transform: scale(0.98);
 }
+button {
+    border-radius: 10px;
+    color: white;
+}
+button:hover {
+    background-color: #222;
+     box-shadow: 0 10px 25px rgba(88,101,242,0.6);
+}
